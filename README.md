@@ -96,7 +96,7 @@ The UI components are organized following **Atomic Design** principles:
 * **Atoms**: Buttons, Inputs, Labels, Badges
 * **Molecules**: Form rows, Search bar, Table row controls
 * **Organisms**: Public complaint form, Admin table
-* **Pages/Templates**: `/` (public form), `/admin` (management panel)
+* **Pages/Templates**: `/` (public form), `/adminPage` (management panel)
 
 This keeps components **reusable**, **testable**, and easy to evolve.
 
