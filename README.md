@@ -129,6 +129,7 @@ This keeps components **reusable**, **testable**, and easy to evolve.
 ---
 
 ## Quick Start
+## CLONE THIS REPOSITORY FROM MAIN BRANCH
 
 ### Run PostgreSQL with Docker
 
@@ -145,7 +146,7 @@ services:
       POSTGRES_PASSWORD: postgres
       POSTGRES_DB: complaints
     ports:
-      - '5432:5432'
+      - '5433:5432'
     volumes:
       - db-data:/var/lib/postgresql/data
     healthcheck:
