@@ -1,0 +1,5 @@
+export {default as ComplaintForms } from './organisms/complaintForm'
+export {default as AdminPage } from './organisms/adminPanel'
+export {default as ComplaintsToolBarx} from './organisms/complaintsToolBar'
+export {default as ComplaintsTablex} from './organisms/complaintsTable'
+export {default as ComplaintsFooterx} from './organisms/complaintsFooter'
