@@ -30,8 +30,7 @@
 * [API Reference](#api-reference)
 * [Project Structure](#project-structure)
 * [Design Decisions & Trade‑offs](#design-decisions--trade-offs)
-* [Roadmap / Nice-to-haves](#roadmap--nice-to-haves)
-* [License](#license)
+
 
 ---
 
@@ -314,16 +313,3 @@ prisma/
 
 ---
 
-## Roadmap / Nice-to-haves
-
-* 🔐 Auth for `/admin` (Basic Auth or NextAuth)
-* ♻️ Cursor-based pagination (better perf for large datasets)
-* 🧪 Tests (unit for route handlers, e2e with Playwright)
-* 📣 Email/webhook on new complaint
-* 📊 Status change history / audit log
-
----
-
-## License
-
-Licensed under the **MIT License**. See `LICENSE` for details.
