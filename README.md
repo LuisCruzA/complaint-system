@@ -309,7 +309,6 @@ prisma/
 
 * **Next.js App Router** for a clear server/client split and built‑in API routes.
 * **Prisma** for DX, migrations, and type safety (instead of raw SQL).
-* **Tables capped at ≤6 fields** to satisfy the challenge constraint. For audit history, we would add an events table.
 * **Simple REST** (could be GraphQL or tRPC in larger systems).
 * **Basic validations with Zod** at the API boundary (lightweight, good DX).
 
