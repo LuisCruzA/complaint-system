@@ -131,7 +131,7 @@ This keeps components **reusable**, **testable**, and easy to evolve.
 ## CLONE THIS REPOSITORY FROM MAIN BRANCH
 
 ### Run PostgreSQL with Docker
-
+Already included in the repository.
 ```bash
 # from the project root
 cat > docker-compose.yml << 'YAML'
