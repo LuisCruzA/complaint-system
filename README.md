@@ -6,7 +6,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-ORM-2D3748?logo=prisma\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker\&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 > A minimal **Complaint Management** (mini helpdesk) app with a public submission form and an admin panel to triage complaints: change status, set due dates, and add notes.
 
