@@ -292,12 +292,13 @@ src/
           notes/
             route.ts             # GET notes, POST note
     page.tsx                     # public form (client component)
-    admin/
+    adminPage/
       page.tsx                   # admin panel (client component)
   lib/
     prisma.ts                    # Prisma client singleton
     validation.ts                # Zod schemas
   components/                    # (Atomic Design) atoms/molecules/organisms
+  types/
 prisma/
   schema.prisma                  # DB schema
 ```
